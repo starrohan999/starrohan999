@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 😄 My self Rohan kumar. Sophomore at Msit.
+- 😄 My self Rohan kumar Pre-final year student at Msit.
 - 🔭 I’m currently working on Front-end tech
 - 🌱 I’m currently learning front-end
 - 👯 I’m looking to collaborate on web dev project and enthusiast person
