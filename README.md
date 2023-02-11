@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: [starrohan999@gmail.com](starrohan999@gmail.com)
 - 😄 Pronouns: Techie Kumar
-- ⚡ Fun fact: Someone who loves to code without music
+- ⚡ Fun fact: Someone who loves to code without music 😄
 
