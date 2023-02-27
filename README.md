@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 - 😄 My self Rohan kumar Pre-final year student at Msit.
 - 🔭 I’m currently working on Front-end tech
-- 🌱 I’m currently learning front-end
+- 🌱 I’m currently learning Web-3(Solidity)
 - 👯 I’m looking to collaborate on web dev project and enthusiast person
 - 🤔 I’m looking for help with backed-end dev
 - 💬 Ask me about ...
